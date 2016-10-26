@@ -3,13 +3,5 @@
     "type": "library",
     "description": "gitskills",
     "keywords": ["git"],
-    "homepage": "https://github.com/Seldaek/monolog",
-    "authors": [
-        {
-            "name": "Jordi Boggiano",
-            "email": "j.boggiano@seld.be",
-            "homepage": "http://seld.be",
-            "role": "Developer"
-        }
-    ]
+    "homepage": "https://github.com/mz5c/gitskills"
 }
