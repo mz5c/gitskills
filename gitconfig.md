@@ -1,3 +1,4 @@
+```
 [user]
 	name = xxx
 	email = xxx@xxx.xxx
@@ -8,3 +9,5 @@
 	cm = commit -m
 	last = log -1
 	lg = log --color --graph --pretty=format:'%Cred%h%Creset -%C(yellow)%d%Creset %s %Cgreen(%cr) %C(bold blue)<%an>%Creset' --abbrev-commit
+
+```
